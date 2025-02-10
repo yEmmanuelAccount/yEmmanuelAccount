@@ -1,5 +1,6 @@
 ### Olá, me chamo Emmanuel! 👋
-    Sou um programador iniciante. Aqui estão algumas informações sobre meus projetos:
+Sou um programador iniciante, em busca de aprender novas ferramentas e melhorar minhas habilidades. <br>
+Aqui estão algumas informações sobre meus projetos:
 
 <div  align="center"; style="display: flex; justify-content: center;>
     <a href="https://github.com/yEmmanuelAccount">
