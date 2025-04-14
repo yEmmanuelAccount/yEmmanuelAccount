@@ -7,29 +7,19 @@ Aqui estão algumas informações sobre meus projetos:
     <img height="180rm" src="https://github-readme-stats.vercel.app/api?username=yEmmanuelAccount&show_icons=true&theme=dracula"/>
     <img height="180rm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yEmmanuelAccount&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-        
-<!-- 
-como tava antes, com o video do homem:
-    ![Emmanuel GitHub status](https://github-readme-stats.vercel.app/api?username=yEmmanuelAccount&show_icons=true&theme=dark)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yEmmanuelAccount&langs_count=8)
-no video da mulher
-<div>
-    <a href="https://github.com/yEmmanuelAccount">
-    <img height="180rm" src="https://github-readme-stats.vercel.app/api?username=yEmmanuelAccount&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180rm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yEmmanuelAccount&layout=compact&langs_count=8&theme=dracula"/>
-</div>
--->
 
 ## 🛠️ Tecnologias que já tive contado
 <br>
 <div align="Center" style="display: inline_block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C">
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS_3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS_3">
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML_5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML_5">
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="JS">
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" alt="Java">
     <img width="8" />
 </div>
 
