@@ -1,12 +1,5 @@
 ### Olá, me chamo Emmanuel! 👋
 Sou um programador iniciante, em busca de aprender novas ferramentas e melhorar minhas habilidades. <br>
-Aqui estão algumas informações sobre meus projetos:
-
-<div  align="center"; style="display: flex; justify-content: center;>
-    <a href="https://github.com/yEmmanuelAccount">
-    <img height="180rm" src="https://github-readme-stats.vercel.app/api?username=yEmmanuelAccount&show_icons=true&theme=dracula"/>
-    <img height="180rm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yEmmanuelAccount&layout=compact&langs_count=8&theme=dracula"/>
-</div>
 
 ## 🛠️ Tecnologias que já tive contado
 <br>
